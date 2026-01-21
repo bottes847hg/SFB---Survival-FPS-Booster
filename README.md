@@ -32,6 +32,8 @@ How to use it?
 
 If it helped, give the repository a star. If you have ideas for improvement, create an issue or pull request. Good luck surviving!
 
+download: https://github.com/bottes847hg/SFB---Survival-FPS-Booster/releases/tag/SFB-Survival-FPS-Booster
+
 
 P.S. This thing is made for personal use and testing on a clean version of the game. If you have tons of mods installed, the results may vary.
 

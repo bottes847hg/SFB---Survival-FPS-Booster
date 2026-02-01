@@ -35,4 +35,4 @@ If it helped, give the repository a star. If you have ideas for improvement, cre
 
 P.S. This thing is made for personal use and testing on a clean version of the game. If you have tons of mods installed, the results may vary.
 
-download: 
+download: https://github.com/bottes847hg/SFB---Survival-FPS-Booster/packages
